@@ -1,12 +1,12 @@
-       .body {
-       	background-color: white;
+       body {
+       	background-image: url("autumn.jpg");
        	font-family: "Times New Roman";
        }
-       .h1 {
+       h1 {
        	color: #003300;
        	font-size: 50px;
        }
-       .h3 {
+       h3 {
        	color: brown;
        	font-style: italic;
        	margin-bottom: 20px;
